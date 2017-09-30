@@ -28,7 +28,7 @@ We need to download a `client_secret.json` file to do an OAuth handshake with th
 
 ## Filling in config.properties
 
-### `SPREADSHET_ID`. 
+### `SPREADSHEET_ID`. 
 All Google Sheets links will have the following format: `https://docs.google.com/spreadsheets/d/<SPREADSHEET_ID>/edit`. Grab that ID and set it as `SPREADSHEET_ID`
 
 ### `CANVAS_TOKEN`
